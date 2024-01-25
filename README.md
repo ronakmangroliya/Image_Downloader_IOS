@@ -1,7 +1,7 @@
 # Image Downloader - IOS
 
-• Add the needed model for the image, to store the image URL and title, and to store the collection of images.
-• Use this code to download image data to the app's memory. When the user selects the image name in the picker, the image view should be updated with the new image data.
+• Add the needed model for the image, to store the image URL and title, and to store the collection of images. <br>
+• Use this code to download image data to the app's memory. When the user selects the image name in the picker, the image view should be updated with the new image data. <br>
 • Use appropriate Queues to keep the UI thread active.
 
 
